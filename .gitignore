@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+.vscode/settings.json
+.vscode/tasks.json
+.obsidian/workspace.json
+.obsidian/cache/
+*.tmp
